@@ -4,5 +4,6 @@
 ## build地址：
 ### 1.[macast](https://github.com/frozenzero123/macast-loongarch64-offline-build)
 ### 2.[lx-music](https://github.com/frozenzero123/lx-music-loongarch64-build)
+### 3.[bilibili-linux](https://github.com/msojocs/bilibili-linux/releases)
 ## 备注：
 ### 我使用的是银河麒麟系统，由于银河麒麟v10各个版本差异较大，Releases包如果不能用的话，建议自行参照build地址跳转下载在自己电脑上编译使用！
